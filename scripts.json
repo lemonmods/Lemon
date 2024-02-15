@@ -1,10 +1,10 @@
 [
   {
-    "name": "test",
-    "url": "https://raw.githubusercontent.com/Parcoil/nativegames.net/main/public/js/core.js"
+    "name": "injector",
+    "url": "https://raw.githubusercontent.com/lemonmods/Lemon/main/scripts/injector.js"
   },
   {
-    "name": "test",
+    "name": "unfinished",
     "url": ""
   },
 ]
