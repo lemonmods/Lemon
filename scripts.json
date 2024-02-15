@@ -2,9 +2,5 @@
   {
     "name": "injector",
     "url": "https://raw.githubusercontent.com/lemonmods/Lemon/main/scripts/injector.js"
-  },
-  {
-    "name": "game",
-    "url": "https://raw.githubusercontent.com/lemonmods/Lemon/main/scripts/Breakout.js"
-  },
+  }
 ]
