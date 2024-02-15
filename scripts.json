@@ -2,5 +2,9 @@
   {
     "name": "test",
     "url": "https://raw.githubusercontent.com/Parcoil/nativegames.net/main/public/js/core.js"
-  }
+  },
+  {
+    "name": "test",
+    "url": ""
+  },
 ]
