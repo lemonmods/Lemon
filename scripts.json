@@ -4,3 +4,9 @@
     "url": "https://raw.githubusercontent.com/lemonmods/Lemon/main/scripts/Mods.js"
   }
 ]
+[
+  {
+    "name": "test",
+    "url": "https://raw.githubusercontent.com/lemonmods/Lemon/main/scripts/test.js"
+  }
+]
