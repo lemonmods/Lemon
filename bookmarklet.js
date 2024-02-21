@@ -31,7 +31,7 @@ javascript:(function() {
   };
 
   const list = () => {
-    fetch('https://raw.githubusercontent.com/SevenworksDev/ExploitHardest/main/scripts.json')
+    fetch('https://raw.githubusercontent.com/lemonmods/Lemon/main/scripts.json')
       .then(response => response.json())
       .then(data => hi(data))
       .catch(error => console.error('Error fetching JSON:', error));
